@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontend Practises</title>
+    <link rel='stylesheet' href="style.css">
+    <script src="variables.js" defer></script>
+
+</head>
+
+<body>
+
+    <div class = 'container'>
+
+        <form id = "registeration" >
+            <div class="registationform">
+
+                <h1>Registeration</h1>
+
+                <div class="form-group">
+                    <label for='name'>Name :</label>
+                    <input type="text" name="name" id="name" placeholder="Enter your name" />
+                    <small id = "nameerror" class = "error"></small>
+                </div>
+                <div class="form-group">
+                    <label for='email'>Email :</label>
+                    <input type="email" name="email" id="email" placeholder="Enter your email" />
+                        <small id = "emailerror" class = "error"></small>
+
+                </div>
+                 <div class="form-group">
+                    <label for='mobile'>Mobile No :</label>
+                    <input type="mobile" name="mobile" id="mobile" placeholder="Enter your mobile no" />
+                    <small id = "mobileerror" class = "error"></small>
+                </div>
+                <div class="form-group">
+                    <label for='password'>Password :</label>
+                    <input type="password" name="password" id="password" placeholder="Enter your password" />
+                    <small id = "passworderror" class = "error"></small>
+                </div>
+
+    
+
+                <div class="form-group">
+                    <label for='confirmpassword'>Confirm password :</label>
+                    <input type="confirmpassword" name="confirmpassword" id="confirmpassword" placeholder="Enter your confirmpassword" />
+                       <small id = "confirmpassworderror" class = "error"></small>
+
+                </div>
+
+            </div>
+
+            <button onSubmit = "submit">Submit</button>
+        </form>
+
+   <p id = 'successMessage' class = "sucess"></p>
+    </div>
+
+</body>
+
+</html>

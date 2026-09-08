@@ -1,0 +1,40 @@
+*{
+    box-sizing : border-box
+}
+
+body{
+  font-family  :'Times New Roman', Times, serif;
+  background: rgb(110, 110, 218);
+}
+
+.container{
+    width: 400px;
+    margin: 40px auto;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 40px;
+}
+.form-group{
+  margin-bottom: 10px;
+}
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(16, 16, 172);
+}
+
+button{
+   
+    background-color: rgb(84, 84, 193);
+    color: whitesmoke;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+
+    
+}
+.error{
+    color: rgb(193, 83, 83);
+}
+.sucess{
+    color: green;
+}
