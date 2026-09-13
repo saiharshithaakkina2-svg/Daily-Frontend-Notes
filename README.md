@@ -8,4 +8,4 @@
 
 
 **This are the Api Fetching the Data ***
-![Uploading Screenshot 2026-09-10 155037.png…]()
+<img width="473" height="391" alt="Screenshot 2026-09-11 202132" src="https://github.com/user-attachments/assets/42673dc9-60aa-4ae3-a614-d50817c69c3b" />
