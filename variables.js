@@ -1,6 +1,5 @@
 //basically, variables are used to store values that we can use and modify in our programs.
 
-
 // let can reassign $ can not re-declare
 
 let name = "honey"
