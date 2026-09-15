@@ -1,13 +1,15 @@
 
 const container = document.getElementById("dom-container")
+ container.style.background = "pink"
 
 
 // create the h1,p,button for small indarction
 
 const heading = document.createElement('h2')
  heading.textContent = "Harhitha"
+
  container.appendChild(heading)
- 
+
 // Create paragraph
  const para = document.createElement("p")
  para.textContent = "I am learning JavaScript DOM" 
@@ -21,6 +23,12 @@ const heading = document.createElement('h2')
  btn.addEventListener ("click" , function () {
     heading.innerText = "I am Harshitha"
     para.innerText = "I am looking for a job"
+     container.style.background = "purple"
+     container.style.color = "white";
+     container.style.padding = "20px";
+
+
+
   })
  container.appendChild(btn)
 
