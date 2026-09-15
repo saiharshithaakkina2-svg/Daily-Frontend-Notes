@@ -1,6 +1,8 @@
 
 const container = document.getElementById("dom-container")
  container.style.background = "pink"
+  container.style.background = "pink"
+
 
 
 // create the h1,p,button for small indarction
@@ -26,7 +28,6 @@ const heading = document.createElement('h2')
      container.style.background = "purple"
      container.style.color = "white";
      container.style.padding = "20px";
-
 
 
   })
