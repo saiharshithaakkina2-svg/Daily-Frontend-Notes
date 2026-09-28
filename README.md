@@ -1,6 +1,6 @@
 **These are the images of Form validations**
 * This is Basic Register form and I used Html ,CSS, JavaScript
-* I used for Regex method for validation
+* I used for Regex method for validation(eamil , name , mobile number , password)
 
 
 
