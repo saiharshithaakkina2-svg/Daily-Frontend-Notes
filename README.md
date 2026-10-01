@@ -14,4 +14,10 @@
 
 *This is fetch the Fake Api details to display on Frontend
 
+
+
+**This are the Api Fetching the Data **
+
+*This is fetch the Fake Api details to display on Frontend
+
 <img width="473" height="391" alt="Screenshot 2026-09-11 202132" src="https://github.com/user-attachments/assets/42673dc9-60aa-4ae3-a614-d50817c69c3b" />
