@@ -2,7 +2,9 @@
 * This is Basic Register form and I used Html ,CSS, JavaScript
 * I used for Regex method for validation(eamil , name , mobile number , password)
 
-
+**These are the images of Form validations**
+* This is Basic Register form and I used Html ,CSS, JavaScript
+* I used for Regex method for validation(eamil , name , mobile number , password)
 
 <img width="344" height="322" alt="Screenshot 2026-09-08 174505" src="https://github.com/user-attachments/assets/2ec4e9f5-d3fd-455c-8865-9d5b76482cdd" />
 <img width="344" height="296" alt="Screenshot 2026-09-08 174444" src="https://github.com/user-attachments/assets/e6ad32aa-90f2-4547-bcf2-c6ac130c7da5" />
